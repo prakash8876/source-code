@@ -1,6 +1,6 @@
 package app.concepts;
 
-public class FinalClass {
+public final class FinalClass {
 	
 	public static final void showMessage() {
 		System.out.println("\n\n"
